@@ -5,5 +5,5 @@
 This  is a demo repo for SoftUni course (Siftware Technologies May 2023) 
 
 1.first
-2.second
-3.third
+1.second
+1.third
